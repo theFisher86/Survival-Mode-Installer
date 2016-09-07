@@ -1,0 +1,4119 @@
+﻿'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\Users\amfisher\Documents\GitHub\Survival Mode Installer\Survival Mode Installer\bin\Debug\Survival Mode Installer.vshost.exe'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Deployment\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Deployment.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualBasic\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The thread 0x30c8 has exited with code 0 (0x0).
+The thread 0x2b54 has exited with code 0 (0x0).
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\Users\amfisher\Documents\GitHub\Survival Mode Installer\Survival Mode Installer\bin\Debug\Survival Mode Installer.exe'. Symbols loaded.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Survival Mode Installer.vshost.exe' (CLR v4.0.30319: Survival Mode Installer.vshost.exe): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Extracting Exml from MBIN
+MBIN Decompiled Successfully
+MBINCompiler Output :XML data written to "C:\Users\amfisher\TEMP\nmsTemp\DEFAULTREALITY.exml" successfully?
+
+Reading newly created exml file
+RawExmlString : <?xml version="1.0" encoding="utf-8"?>
+<Data template="GcRealityManagerData">
+  <Property name="RealityIteration" value="0" />
+  <Property name="DiscoveryWorth">
+    <Data name="Unknown" template="GcDiscoveryWorth">
+      <Property name="Common" value="-1" />
+      <Property name="Uncommon" value="-1" />
+      <Property name="Rare" value="-1" />
+      <Property name="OnScan" value="0" />
+      <Property name="Mission" value="0" />
+    </Data>
+    <Data name="SolarSystem" template="GcDiscoveryWorth">
+      <Property name="Common" value="5000" />
+      <Property name="Uncommon" value="5000" />
+      <Property name="Rare" value="5000" />
+      <Property name="OnScan" value="0" />
+      <Property name="Mission" value="0" />
+    </Data>
+    <Data name="Planet" template="GcDiscoveryWorth">
+      <Property name="Common" value="2000" />
+      <Property name="Uncommon" value="2000" />
+      <Property name="Rare" value="2000" />
+      <Property name="OnScan" value="0" />
+      <Property name="Mission" value="0" />
+    </Data>
+    <Data name="Animal" template="GcDiscoveryWorth">
+      <Property name="Common" value="1500" />
+      <Property name="Uncommon" value="2000" />
+      <Property name="Rare" value="2500" />
+      <Property name="OnScan" value="200" />
+      <Property name="Mission" value="25000" />
+    </Data>
+    <Data name="Flora" template="GcDiscoveryWorth">
+      <Property name="Common" value="500" />
+      <Property name="Uncommon" value="500" />
+      <Property name="Rare" value="500" />
+      <Property name="OnScan" value="0" />
+      <Property name="Mission" value="0" />
+    </Data>
+    <Data name="Mineral" template="GcDiscoveryWorth">
+      <Property name="Common" value="500" />
+      <Property name="Uncommon" value="500" />
+      <Property name="Rare" value="500" />
+      <Property name="OnScan" value="0" />
+      <Property name="Mission" value="0" />
+    </Data>
+    <Data name="Sector" template="GcDiscoveryWorth">
+      <Property name="Common" value="1000" />
+      <Property name="Uncommon" value="1000" />
+      <Property name="Rare" value="1000" />
+      <Property name="OnScan" value="0" />
+      <Property name="Mission" value="0" />
+    </Data>
+  </Property>
+  <Property name="TechnologyTable" value="METADATA/REALITY/TABLES/NMS_REALITY_GCTECHNOLOGYTABLE.MXML" />
+  <Property name="SubstanceTable" value="METADATA/REALITY/TABLES/NMS_REALITY_GCSUBSTANCETABLE.MXML" />
+  <Property name="ProductTable" value="METADATA/REALITY/TABLES/NMS_REALITY_GCPRODUCTTABLE.MXML" />
+  <Property name="AlienWordsTable" value="METADATA/REALITY/TABLES/NMS_DIALOG_GCALIENSPEECHTABLE.MXML" />
+  <Property name="AlienPuzzlesTable" value="METADATA/REALITY/TABLES/NMS_DIALOG_GCALIENPUZZLETABLE.MXML" />
+  <Property name="RewardTable" value="METADATA/REALITY/TABLES/REWARDTABLE.MXML" />
+  <Property name="RewardDestructTable" value="METADATA/REALITY/TABLES/REWARDDESTRUCTTABLE.MXML" />
+  <Property name="InventoryTable" value="METADATA/REALITY/TABLES/INVENTORYTABLE.MXML" />
+  <Property name="DamageTable" value="METADATA/REALITY/TABLES/DAMAGETABLE.MXML" />
+  <Property name="CostTable" value="METADATA/REALITY/TABLES/COSTTABLE.MXML" />
+  <Data name="Icons" template="GcRealityIconTable">
+    <Property name="HazardIcons">
+      <Data name="None" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/HAZARDS/LIFESUPPORT.DDS" />
+      </Data>
+      <Data name="NoOxygen" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.WATER.DDS" />
+      </Data>
+      <Data name="ExtremeHeat" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.HEAT.DDS" />
+      </Data>
+      <Data name="ExtremeCold" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.COLD.DDS" />
+      </Data>
+      <Data name="ToxicGas" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.TOXIC.DDS" />
+      </Data>
+      <Data name="Radiation" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.RADIOACTIVE.DDS" />
+      </Data>
+    </Property>
+    <Property name="SubstanceCategoryIcons">
+      <Data name="Commodity" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.COMMODITY.DDS" />
+      </Data>
+      <Data name="Technology" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.TECH.DDS" />
+      </Data>
+      <Data name="Fuel" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.FUEL.DDS" />
+      </Data>
+      <Data name="Tradeable" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.COMMODITY.DDS" />
+      </Data>
+      <Data name="Special" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.COMMODITY.DDS" />
+      </Data>
+    </Property>
+    <Property name="ProductCategoryIcons">
+      <Data name="Component" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/BUILDCATAGORY.COMPONENT.DDS" />
+      </Data>
+      <Data name="Device" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/BUILDCATAGORY.DEVICE.DDS" />
+      </Data>
+      <Data name="Consumable" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/BUILDCATAGORY.CONSUMABLE.DDS" />
+      </Data>
+      <Data name="Curiosity" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/BUILDCATAGORY.CURIOSITY.DDS" />
+      </Data>
+    </Property>
+    <Property name="GameIcons">
+      <Data name="Stamina" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.STAMINA.DDS" />
+      </Data>
+      <Data name="NoStamina" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.NOSTAMINA.DDS" />
+      </Data>
+      <Data name="EnergyCharge" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/HAZARDS/LIFESUPPORT.DDS" />
+      </Data>
+      <Data name="Scanner" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.SCAN.DDS" />
+      </Data>
+      <Data name="NoScanner" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.NOSCAN.DDS" />
+      </Data>
+      <Data name="Grave" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/ICONS/PLAYER/DEATH.DDS" />
+      </Data>
+      <Data name="Resources" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/NOTIFICATIONS/SCANRESOURCE.DDS" />
+      </Data>
+      <Data name="Inventory" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.NOTFULL.DDS" />
+      </Data>
+      <Data name="InventoryFull" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.FULL.DDS" />
+      </Data>
+      <Data name="RareItems" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/PRODUCTS/PRODUCT.CURIO.1.DDS" />
+      </Data>
+      <Data name="Pirates" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/PIRATEMESSAGEICON.DDS" />
+      </Data>
+      <Data name="PirateScan" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/PIRATEMESSAGEICON.DDS" />
+      </Data>
+      <Data name="Drone" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/WANTEDMESSAGEICON.DDS" />
+      </Data>
+      <Data name="Quad" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/QUADMESSAGEICON.DDS" />
+      </Data>
+      <Data name="Walker" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/WALKERMESSAGEICON.DDS" />
+      </Data>
+      <Data name="DroneOff" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/WANTEDMESSAGEICONALT.DDS" />
+      </Data>
+      <Data name="Police" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/POLICEMESSAGEICON.DDS" />
+      </Data>
+      <Data name="AtlasStation" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/ATLASMESSAGEICON.DDS" />
+      </Data>
+      <Data name="BlackHole" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/BLACKHOLEMESSAGEICON.DDS" />
+      </Data>
+      <Data name="SaveGame" template="TkTextureResource">
+        <Property name="Filename" value="TEXTURES/UI/HUD/RESTOREMESSAGEICON.DDS" />
+      </Data>
+    </Property>
+  </Data>
+  <Property name="HazardColours">
+    <Data name="None" template="Colour">
+      <Property name="R" value="1" />
+      <Property name="G" value="1" />
+      <Property name="B" value="1" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="NoOxygen" template="Colour">
+      <Property name="R" value="0.259" />
+      <Property name="G" value="0.718" />
+      <Property name="B" value="0.769" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="ExtremeHeat" template="Colour">
+      <Property name="R" value="0.673" />
+      <Property name="G" value="0.217" />
+      <Property name="B" value="0.1" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="ExtremeCold" template="Colour">
+      <Property name="R" value="0.285" />
+      <Property name="G" value="0.569" />
+      <Property name="B" value="1" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="ToxicGas" template="Colour">
+      <Property name="R" value="0.239" />
+      <Property name="G" value="0.518" />
+      <Property name="B" value="0.2" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="Radiation" template="Colour">
+      <Property name="R" value="0.894" />
+      <Property name="G" value="0.541" />
+      <Property name="B" value="0.016" />
+      <Property name="A" value="1" />
+    </Data>
+  </Property>
+  <Property name="RarityColours">
+    <Data name="Common" template="Colour">
+      <Property name="R" value="0.788" />
+      <Property name="G" value="0.788" />
+      <Property name="B" value="0.788" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="Uncommon" template="Colour">
+      <Property name="R" value="0.493" />
+      <Property name="G" value="0.904" />
+      <Property name="B" value="0.416" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="Rare" template="Colour">
+      <Property name="R" value="0.615" />
+      <Property name="G" value="0.236" />
+      <Property name="B" value="0.881" />
+      <Property name="A" value="1" />
+    </Data>
+  </Property>
+  <Property name="SubstanceCategoryColours">
+    <Data name="Commodity" template="Colour">
+      <Property name="R" value="1" />
+      <Property name="G" value="0.851" />
+      <Property name="B" value="0.072" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="Technology" template="Colour">
+      <Property name="R" value="0.192" />
+      <Property name="G" value="0.74" />
+      <Property name="B" value="0.816" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="Fuel" template="Colour">
+      <Property name="R" value="0.884" />
+      <Property name="G" value="0.139" />
+      <Property name="B" value="0.093" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="Tradeable" template="Colour">
+      <Property name="R" value="1" />
+      <Property name="G" value="1" />
+      <Property name="B" value="1" />
+      <Property name="A" value="1" />
+    </Data>
+    <Data name="Special" template="Colour">
+      <Property name="R" value="0.638" />
+      <Property name="G" value="0.137" />
+      <Property name="B" value="1" />
+      <Property name="A" value="1" />
+    </Data>
+  </Property>
+  <Property name="SubstanceChargeIcons">
+    <Data name="Commodity" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/HUD/MENUS/ACTIONICON.MINERAL.DDS" />
+    </Data>
+    <Data name="Technology" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/HUD/MENUS/ACTIONICON.TECH.DDS" />
+    </Data>
+    <Data name="Fuel" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/HUD/MENUS/ACTIONICON.FUEL.DDS" />
+    </Data>
+    <Data name="Tradeable" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/HUD/MENUS/ACTIONICON.TRADEABLE.DDS" />
+    </Data>
+    <Data name="Special" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/HUD/MENUS/ACTIONICON.SPECIAL.DDS" />
+    </Data>
+  </Property>
+  <Property name="StatCategoryIcons">
+    <Data name="Weapon_Laser" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.LASER.DDS" />
+    </Data>
+    <Data name="Weapon_Laser_Damage" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS" />
+    </Data>
+    <Data name="Weapon_Laser_Mining_Damage" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.MINE.DDS" />
+    </Data>
+    <Data name="Weapon_Laser_Mining_Speed" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Laser_HeatTime" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Laser_Bounce" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Laser_ReloadTime" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Laser_Recoil" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.PROJECTILE.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.PROJECTILE.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_Damage" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_Mining_Damage" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.MINE.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_Range" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_Rate" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_ClipSize" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_ReloadTime" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_Recoil" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_Bounce" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_Homing" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_Dispersion" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_BulletsPerShot" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Projectile_MaximunCharge" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS" />
+    </Data>
+    <Data name="Weapon_Grenade" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS" />
+    </Data>
+    <Data name="Weapon_Grenade_Damage" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS" />
+    </Data>
+    <Data name="Weapon_Grenade_Radius" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Grenade_Speed" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Grenade_Bounce" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Grenade_Homing" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Grenade_Clusterbomb" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Grenade_Mining_Damage" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.MINE.DDS" />
+    </Data>
+    <Data name="Weapon_Scan" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Scan_Radius" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Scan_Recharge_Time" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Scan_Types" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Weapon_Scan_Binoculars" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS" />
+    </Data>
+    <Data name="Suit_Armour_Health" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS" />
+    </Data>
+    <Data name="Suit_Armour_Shield" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS" />
+    </Data>
+    <Data name="Suit_Armour_Shield_Strength" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Suit_Protection" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Suit_Protection_Cold" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Suit_Protection_Heat" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Suit_Protection_Toxic" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS" />
+    </Data>
+    <Data name="Suit_Protection_Radiation" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS" />
+    </Data>
+    <Data name="Suit_Protection_Energy" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS" />
+    </Data>
+    <Data name="Suit_Stamina_Strength" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS" />
+    </Data>
+    <Data name="Suit_Stamina_Speed" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS" />
+    </Data>
+    <Data name="Suit_Underwater" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.PROJECTILE.DDS" />
+    </Data>
+    <Data name="Suit_Jetpack" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS" />
+    </Data>
+    <Data name="Suit_Jetpack_Tank" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/RENDER.SHIELDCOPY2.DDS" />
+    </Data>
+    <Data name="Suit_Energy" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/RENDER.CELL.DDS" />
+    </Data>
+    <Data name="Ship_Weapons_Guns" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.WEAPONS.DDS" />
+    </Data>
+    <Data name="Ship_Weapons_Guns_Damage" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.LASER.DDS" />
+    </Data>
+    <Data name="Ship_Weapons_Guns_Rate" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.LASER.DDS" />
+    </Data>
+    <Data name="Ship_Weapons_Guns_HeatTime" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.LASER.DDS" />
+    </Data>
+    <Data name="Ship_Weapons_Guns_ClipSize" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.LASER.DDS" />
+    </Data>
+    <Data name="Ship_Weapons_Lasers" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.LASER.DDS" />
+    </Data>
+    <Data name="Ship_Weapons_Lasers_Damage" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS" />
+    </Data>
+    <Data name="Ship_Weapons_Lasers_HeatTime" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS" />
+    </Data>
+    <Data name="Ship_Weapons_Missiles" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS" />
+    </Data>
+    <Data name="Ship_Armour_Shield" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS" />
+    </Data>
+    <Data name="Ship_Armour_Shield_Strength" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS" />
+    </Data>
+    <Data name="Ship_Armour_Health" template="TkTextureResource">
+      <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS" />
+    </Data>
+    <Data name="Ship_Scan" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Ship_Hyperdrive" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Ship_Hyperdrive_JumpDistance" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Ship_Launcher" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Ship_Launcher_TakeOffCost" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Ship_PulseDrive" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Ship_PulseDrive_MiniJumpFuelSpending" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Ship_Boost" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+    <Data name="Ship_Maneuverability" template="TkTextureResource">
+      <Property name="Filename" value="" />
+    </Data>
+  </Property>
+  <Property name="Stats">
+    <Data name="Suit" template="GcStats">
+      <Property name="Stats">
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="ARMOUR" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SUIT.ARMOUR.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Suit_Armour_Health" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="0.559" />
+                <Property name="B" value="0.446" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="5" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Suit_Armour_Shield_Strength" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0" />
+                <Property name="G" value="0.7" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="5" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="PROTECTION" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SUIT.PROTECTION.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Suit_Protection_Cold" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.935" />
+                <Property name="G" value="0.998" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="500" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Suit_Protection_Heat" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.928" />
+                <Property name="G" value="0.312" />
+                <Property name="B" value="0.209" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="500" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Suit_Protection_Toxic" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.167" />
+                <Property name="G" value="0.72" />
+                <Property name="B" value="0.341" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="500" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Suit_Protection_Radiation" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.997" />
+                <Property name="G" value="1" />
+                <Property name="B" value="0.134" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="500" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="STAMINA" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SUIT.STAMINA.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Suit_Stamina_Strength" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="1" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="2" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="UTILITIES" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SUIT.UTILITIES.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Suit_Jetpack_Tank" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="1" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="10" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+      </Property>
+    </Data>
+    <Data name="Weapon" template="GcStats">
+      <Property name="Stats">
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="LASER" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.WEAPON.LASER.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Laser_Damage" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="0.559" />
+                <Property name="B" value="0.446" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="20" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Laser_Mining_Damage" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="0.958" />
+                <Property name="B" value="0.446" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="25" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="PROJECTILE" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.WEAPON.PROJECTILE.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Projectile_Damage" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="0.559" />
+                <Property name="B" value="0.446" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="60" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Projectile_Range" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.511" />
+                <Property name="G" value="1" />
+                <Property name="B" value="0.634" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="2500" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Projectile_Rate" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.357" />
+                <Property name="G" value="0.545" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="10" />
+              <Property name="LessIsBetter" value="True" />
+            </Data>
+          </Property>
+        </Data>
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="GRENADE" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.WEAPON.GRENADE.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Grenade_Damage" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="0.559" />
+                <Property name="B" value="0.446" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="1500" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Grenade_Radius" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.511" />
+                <Property name="G" value="1" />
+                <Property name="B" value="0.634" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="5" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Grenade_Speed" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.357" />
+                <Property name="G" value="0.545" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="20" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="SCAN" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.WEAPON.SCAN.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Scan_Radius" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.997" />
+                <Property name="G" value="0.862" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="10" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Weapon_Scan_Binoculars" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="1" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="1" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+      </Property>
+    </Data>
+    <Data name="Ship" template="GcStats">
+      <Property name="Stats">
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="WEAPONS" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SHIP.WEAPONS.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Ship_Weapons_Guns_Damage" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="0.559" />
+                <Property name="B" value="0.446" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="8" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.511" />
+                <Property name="G" value="1" />
+                <Property name="B" value="0.634" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="8" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="ARMOUR" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SHIP.ARMOUR.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Ship_Armour_Shield_Strength" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.357" />
+                <Property name="G" value="0.545" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="4" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="SCAN" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SHIP.SCAN.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Ship_Scan" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="1" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="10" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+        <Data template="GcStatsGroup">
+          <Property name="Id" value="HYPERDRIVEX" />
+          <Data name="Icon" template="TkTextureResource">
+            <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SHIP.HYDERDRIVE.DDS" />
+          </Data>
+          <Property name="StatIds">
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Ship_Hyperdrive" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="0.357" />
+                <Property name="G" value="0.545" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="1" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+            <Data template="GcStatsEntry">
+              <Data name="StatsType" template="GcStatsTypes">
+                <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" />
+              </Data>
+              <Data name="Colour" template="Colour">
+                <Property name="R" value="1" />
+                <Property name="G" value="1" />
+                <Property name="B" value="1" />
+                <Property name="A" value="1" />
+              </Data>
+              <Property name="RangeMin" value="0" />
+              <Property name="RangeMax" value="2000" />
+              <Property name="LessIsBetter" value="False" />
+            </Data>
+          </Property>
+        </Data>
+      </Property>
+    </Data>
+  </Property>
+  <Data name="TradeSettings" template="GcTradeSettings">
+    <Data name="SpaceStation" template="GcTradeData">
+      <Property name="AlwaysPresentProducts">
+        <Data template="NMSString0x10">
+          <Property name="Value" value="PULSEFUEL1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="SHIELDFUEL3" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="PRODFUEL3" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="COMMODITY7" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="COMMODITY3" />
+        </Data>
+      </Property>
+      <Property name="AlwaysPresentSubstances">
+        <Data template="NMSString0x10">
+          <Property name="Value" value="COMUNCOMMON1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="TECH1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="TECHRARE1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="COMRARE1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="FUELRARE1" />
+        </Data>
+      </Property>
+      <Property name="MinItemsForSale" value="15" />
+      <Property name="MaxItemsForSale" value="15" />
+      <Property name="PercentageOfItemsAreProducts" value="0.7" />
+      <Property name="MinAmountOfProductAvailable" value="1" />
+      <Property name="MaxAmountOfProductAvailable" value="4" />
+      <Property name="MinAmountOfSubstanceAvailable" value="30" />
+      <Property name="MaxAmountOfSubstanceAvailable" value="50" />
+      <Property name="HasStarItems" value="True" />
+      <Property name="MinNumberOfStarItems" value="1" />
+      <Property name="MaxNumberOfStarItems" value="4" />
+      <Property name="StarItemMarkUp" value="2" />
+    </Data>
+    <Data name="Shop" template="GcTradeData">
+      <Property name="AlwaysPresentProducts">
+        <Data template="NMSString0x10">
+          <Property name="Value" value="SHIELDFUEL1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="SHIELDFUEL2" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="PRODFUEL1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="PRODFUEL2" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="GRENFUEL1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="COMMODITY1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="COMMODITY4" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="COMMODITY3" />
+        </Data>
+      </Property>
+      <Property name="AlwaysPresentSubstances">
+        <Data template="NMSString0x10">
+          <Property name="Value" value="FUELRARE1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="TECH1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="TECHUNCOMMON1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="COM1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="COMUNCOMMON1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="FUEL1" />
+        </Data>
+        <Data template="NMSString0x10">
+          <Property name="Value" value="FUELUNCOMMON1" />
+        </Data>
+      </Property>
+      <Property name="MinItemsForSale" value="20" />
+      <Property name="MaxItemsForSale" value="20" />
+      <Property name="PercentageOfItemsAreProducts" value="0.5714" />
+      <Property name="MinAmountOfProductAvailable" value="1" />
+      <Property name="MaxAmountOfProductAvailable" value="4" />
+      <Property name="MinAmountOfSubstanceAvailable" value="30" />
+      <Property name="MaxAmountOfSubstanceAvailable" value="50" />
+      <Property name="HasStarItems" value="False" />
+      <Property name="MinNumberOfStarItems" value="1" />
+      <Property name="MaxNumberOfStarItems" value="4" />
+      <Property name="StarItemMarkUp" value="2" />
+    </Data>
+  </Data>
+  <Property name="SuitUpgradePrices">
+    <Data template="NMSInt">
+      <Property name="Value" value="0" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="10000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="20000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="30000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="40000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="50000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="60000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="70000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="80000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="90000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="100000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="110000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="120000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="130000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="140000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="150000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="160000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="170000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="180000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="190000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="200000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="210000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="220000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="230000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="240000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="250000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="260000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="270000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="280000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="290000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="300000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="310000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="320000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="330000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="340000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="350000" />
+    </Data>
+    <Data template="NMSInt">
+      <Property name="Value" value="360000" />
+    </Data>
+  </Property>
+  <Property name="NeverSellableItems">
+    <Data template="NMSString0x10">
+      <Property name="Value" value="HYPERFUEL1" />
+    </Data>
+    <Data template="NMSString0x10">
+      <Property name="Value" value="ACCESS1" />
+    </Data>
+    <Data template="NMSString0x10">
+      <Property name="Value" value="ACCESS2" />
+    </Data>
+    <Data template="NMSString0x10">
+      <Property name="Value" value="ACCESS3" />
+    </Data>
+  </Property>
+  <Property name="NormalizedPriceLimits">
+    <Property name="Commodity" value="0" />
+    <Property name="Technology" value="0.0004" />
+    <Property name="Fuel" value="0.0024" />
+    <Property name="Tradeable" value="0.006" />
+    <Property name="Special" value="0.02" />
+  </Property>
+</Data>
+Converting to XML
+First Attr :template="GcRealityManagerData"
+Elem Name :Data
+First Attr :name="RealityIteration"
+Elem Name :Property
+First Attr :name="DiscoveryWorth"
+Elem Name :Property
+First Attr :name="Unknown"
+Elem Name :Data
+First Attr :name="Common"
+Elem Name :Property
+First Attr :name="Uncommon"
+Elem Name :Property
+First Attr :name="Rare"
+Elem Name :Property
+First Attr :name="OnScan"
+Elem Name :Property
+First Attr :name="Mission"
+Elem Name :Property
+First Attr :name="SolarSystem"
+Elem Name :Data
+First Attr :name="Common"
+Elem Name :Property
+First Attr :name="Uncommon"
+Elem Name :Property
+First Attr :name="Rare"
+Elem Name :Property
+First Attr :name="OnScan"
+Elem Name :Property
+First Attr :name="Mission"
+Elem Name :Property
+First Attr :name="Planet"
+Elem Name :Data
+First Attr :name="Common"
+Elem Name :Property
+First Attr :name="Uncommon"
+Elem Name :Property
+First Attr :name="Rare"
+Elem Name :Property
+First Attr :name="OnScan"
+Elem Name :Property
+First Attr :name="Mission"
+Elem Name :Property
+First Attr :name="Animal"
+Elem Name :Data
+First Attr :name="Common"
+Elem Name :Property
+First Attr :name="Uncommon"
+Elem Name :Property
+First Attr :name="Rare"
+Elem Name :Property
+First Attr :name="OnScan"
+Elem Name :Property
+First Attr :name="Mission"
+Elem Name :Property
+First Attr :name="Flora"
+Elem Name :Data
+First Attr :name="Common"
+Elem Name :Property
+First Attr :name="Uncommon"
+Elem Name :Property
+First Attr :name="Rare"
+Elem Name :Property
+First Attr :name="OnScan"
+Elem Name :Property
+First Attr :name="Mission"
+Elem Name :Property
+First Attr :name="Mineral"
+Elem Name :Data
+First Attr :name="Common"
+Elem Name :Property
+First Attr :name="Uncommon"
+Elem Name :Property
+First Attr :name="Rare"
+Elem Name :Property
+First Attr :name="OnScan"
+Elem Name :Property
+First Attr :name="Mission"
+Elem Name :Property
+First Attr :name="Sector"
+Elem Name :Data
+First Attr :name="Common"
+Elem Name :Property
+First Attr :name="Uncommon"
+Elem Name :Property
+First Attr :name="Rare"
+Elem Name :Property
+First Attr :name="OnScan"
+Elem Name :Property
+First Attr :name="Mission"
+Elem Name :Property
+First Attr :name="TechnologyTable"
+Elem Name :Property
+First Attr :name="SubstanceTable"
+Elem Name :Property
+First Attr :name="ProductTable"
+Elem Name :Property
+First Attr :name="AlienWordsTable"
+Elem Name :Property
+First Attr :name="AlienPuzzlesTable"
+Elem Name :Property
+First Attr :name="RewardTable"
+Elem Name :Property
+First Attr :name="RewardDestructTable"
+Elem Name :Property
+First Attr :name="InventoryTable"
+Elem Name :Property
+First Attr :name="DamageTable"
+Elem Name :Property
+First Attr :name="CostTable"
+Elem Name :Property
+First Attr :name="Icons"
+Elem Name :Data
+First Attr :name="HazardIcons"
+Elem Name :Property
+First Attr :name="None"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="NoOxygen"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="ExtremeHeat"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="ExtremeCold"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="ToxicGas"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Radiation"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="SubstanceCategoryIcons"
+Elem Name :Property
+First Attr :name="Commodity"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Technology"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Fuel"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Tradeable"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Special"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="ProductCategoryIcons"
+Elem Name :Property
+First Attr :name="Component"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Device"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Consumable"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Curiosity"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="GameIcons"
+Elem Name :Property
+First Attr :name="Stamina"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="NoStamina"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="EnergyCharge"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Scanner"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="NoScanner"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Grave"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Resources"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Inventory"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="InventoryFull"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="RareItems"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Pirates"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="PirateScan"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Drone"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Quad"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Walker"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="DroneOff"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Police"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="AtlasStation"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="BlackHole"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="SaveGame"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="HazardColours"
+Elem Name :Property
+First Attr :name="None"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="NoOxygen"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="ExtremeHeat"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="ExtremeCold"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="ToxicGas"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="Radiation"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RarityColours"
+Elem Name :Property
+First Attr :name="Common"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="Uncommon"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="Rare"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="SubstanceCategoryColours"
+Elem Name :Property
+First Attr :name="Commodity"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="Technology"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="Fuel"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="Tradeable"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="Special"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="SubstanceChargeIcons"
+Elem Name :Property
+First Attr :name="Commodity"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Technology"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Fuel"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Tradeable"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Special"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatCategoryIcons"
+Elem Name :Property
+First Attr :name="Weapon_Laser"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Laser_Damage"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Laser_Mining_Damage"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Laser_Mining_Speed"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Laser_HeatTime"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Laser_Bounce"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Laser_ReloadTime"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Laser_Recoil"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_Damage"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_Mining_Damage"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_Range"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_Rate"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_ClipSize"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_ReloadTime"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_Recoil"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_Bounce"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_Homing"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_Dispersion"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_BulletsPerShot"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Projectile_MaximunCharge"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Grenade"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Grenade_Damage"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Grenade_Radius"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Grenade_Speed"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Grenade_Bounce"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Grenade_Homing"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Grenade_Clusterbomb"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Grenade_Mining_Damage"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Scan"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Scan_Radius"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Scan_Recharge_Time"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Scan_Types"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Weapon_Scan_Binoculars"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Armour_Health"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Armour_Shield"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Armour_Shield_Strength"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Protection"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Protection_Cold"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Protection_Heat"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Protection_Toxic"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Protection_Radiation"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Protection_Energy"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Stamina_Strength"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Stamina_Speed"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Underwater"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Jetpack"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Jetpack_Tank"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Suit_Energy"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Weapons_Guns"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Weapons_Guns_Damage"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Weapons_Guns_Rate"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Weapons_Guns_HeatTime"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Weapons_Guns_ClipSize"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Weapons_Lasers"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Weapons_Lasers_Damage"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Weapons_Lasers_HeatTime"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Weapons_Missiles"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Armour_Shield"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Armour_Shield_Strength"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Armour_Health"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Scan"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Hyperdrive"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Hyperdrive_JumpDistance"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Launcher"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Launcher_TakeOffCost"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_PulseDrive"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_PulseDrive_MiniJumpFuelSpending"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Boost"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Ship_Maneuverability"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="Stats"
+Elem Name :Property
+First Attr :name="Suit"
+Elem Name :Data
+First Attr :name="Stats"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :name="Weapon"
+Elem Name :Data
+First Attr :name="Stats"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :name="Ship"
+Elem Name :Data
+First Attr :name="Stats"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsGroup"
+Elem Name :Data
+First Attr :name="Id"
+Elem Name :Property
+First Attr :name="Icon"
+Elem Name :Data
+First Attr :name="Filename"
+Elem Name :Property
+First Attr :name="StatIds"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :template="GcStatsEntry"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Data
+First Attr :name="StatsType"
+Elem Name :Property
+First Attr :name="Colour"
+Elem Name :Data
+First Attr :name="R"
+Elem Name :Property
+First Attr :name="G"
+Elem Name :Property
+First Attr :name="B"
+Elem Name :Property
+First Attr :name="A"
+Elem Name :Property
+First Attr :name="RangeMin"
+Elem Name :Property
+First Attr :name="RangeMax"
+Elem Name :Property
+First Attr :name="LessIsBetter"
+Elem Name :Property
+First Attr :name="TradeSettings"
+Elem Name :Data
+First Attr :name="SpaceStation"
+Elem Name :Data
+First Attr :name="AlwaysPresentProducts"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :name="AlwaysPresentSubstances"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :name="MinItemsForSale"
+Elem Name :Property
+First Attr :name="MaxItemsForSale"
+Elem Name :Property
+First Attr :name="PercentageOfItemsAreProducts"
+Elem Name :Property
+First Attr :name="MinAmountOfProductAvailable"
+Elem Name :Property
+First Attr :name="MaxAmountOfProductAvailable"
+Elem Name :Property
+First Attr :name="MinAmountOfSubstanceAvailable"
+Elem Name :Property
+First Attr :name="MaxAmountOfSubstanceAvailable"
+Elem Name :Property
+First Attr :name="HasStarItems"
+Elem Name :Property
+First Attr :name="MinNumberOfStarItems"
+Elem Name :Property
+First Attr :name="MaxNumberOfStarItems"
+Elem Name :Property
+First Attr :name="StarItemMarkUp"
+Elem Name :Property
+First Attr :name="Shop"
+Elem Name :Data
+First Attr :name="AlwaysPresentProducts"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :name="AlwaysPresentSubstances"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :name="MinItemsForSale"
+Elem Name :Property
+First Attr :name="MaxItemsForSale"
+Elem Name :Property
+First Attr :name="PercentageOfItemsAreProducts"
+Elem Name :Property
+First Attr :name="MinAmountOfProductAvailable"
+Elem Name :Property
+First Attr :name="MaxAmountOfProductAvailable"
+Elem Name :Property
+First Attr :name="MinAmountOfSubstanceAvailable"
+Elem Name :Property
+First Attr :name="MaxAmountOfSubstanceAvailable"
+Elem Name :Property
+First Attr :name="HasStarItems"
+Elem Name :Property
+First Attr :name="MinNumberOfStarItems"
+Elem Name :Property
+First Attr :name="MaxNumberOfStarItems"
+Elem Name :Property
+First Attr :name="StarItemMarkUp"
+Elem Name :Property
+First Attr :name="SuitUpgradePrices"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSInt"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :name="NeverSellableItems"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :template="NMSString0x10"
+Elem Name :Data
+First Attr :name="Value"
+Elem Name :Property
+First Attr :name="NormalizedPriceLimits"
+Elem Name :Property
+First Attr :name="Commodity"
+Elem Name :Property
+First Attr :name="Technology"
+Elem Name :Property
+First Attr :name="Fuel"
+Elem Name :Property
+First Attr :name="Tradeable"
+Elem Name :Property
+First Attr :name="Special"
+Elem Name :Property
+exml file now available as ParsedXml
+<Data_root template="GcRealityManagerData">
+  <Property_RealityIteration>0</Property_RealityIteration>
+  <Property_DiscoveryWorth>
+    <Data_Unknown template="GcDiscoveryWorth">
+      <Property_Common>-1</Property_Common>
+      <Property_Uncommon>-1</Property_Uncommon>
+      <Property_Rare>-1</Property_Rare>
+      <Property_OnScan>0</Property_OnScan>
+      <Property_Mission>0</Property_Mission>
+    </Data_Unknown>
+    <Data_SolarSystem template="GcDiscoveryWorth">
+      <Property_Common>5000</Property_Common>
+      <Property_Uncommon>5000</Property_Uncommon>
+      <Property_Rare>5000</Property_Rare>
+      <Property_OnScan>0</Property_OnScan>
+      <Property_Mission>0</Property_Mission>
+    </Data_SolarSystem>
+    <Data_Planet template="GcDiscoveryWorth">
+      <Property_Common>2000</Property_Common>
+      <Property_Uncommon>2000</Property_Uncommon>
+      <Property_Rare>2000</Property_Rare>
+      <Property_OnScan>0</Property_OnScan>
+      <Property_Mission>0</Property_Mission>
+    </Data_Planet>
+    <Data_Animal template="GcDiscoveryWorth">
+      <Property_Common>1500</Property_Common>
+      <Property_Uncommon>2000</Property_Uncommon>
+      <Property_Rare>2500</Property_Rare>
+      <Property_OnScan>200</Property_OnScan>
+      <Property_Mission>25000</Property_Mission>
+    </Data_Animal>
+    <Data_Flora template="GcDiscoveryWorth">
+      <Property_Common>500</Property_Common>
+      <Property_Uncommon>500</Property_Uncommon>
+      <Property_Rare>500</Property_Rare>
+      <Property_OnScan>0</Property_OnScan>
+      <Property_Mission>0</Property_Mission>
+    </Data_Flora>
+    <Data_Mineral template="GcDiscoveryWorth">
+      <Property_Common>500</Property_Common>
+      <Property_Uncommon>500</Property_Uncommon>
+      <Property_Rare>500</Property_Rare>
+      <Property_OnScan>0</Property_OnScan>
+      <Property_Mission>0</Property_Mission>
+    </Data_Mineral>
+    <Data_Sector template="GcDiscoveryWorth">
+      <Property_Common>1000</Property_Common>
+      <Property_Uncommon>1000</Property_Uncommon>
+      <Property_Rare>1000</Property_Rare>
+      <Property_OnScan>0</Property_OnScan>
+      <Property_Mission>0</Property_Mission>
+    </Data_Sector>
+  </Property_DiscoveryWorth>
+  <Property_TechnologyTable>METADATA/REALITY/TABLES/NMS_REALITY_GCTECHNOLOGYTABLE.MXML</Property_TechnologyTable>
+  <Property_SubstanceTable>METADATA/REALITY/TABLES/NMS_REALITY_GCSUBSTANCETABLE.MXML</Property_SubstanceTable>
+  <Property_ProductTable>METADATA/REALITY/TABLES/NMS_REALITY_GCPRODUCTTABLE.MXML</Property_ProductTable>
+  <Property_AlienWordsTable>METADATA/REALITY/TABLES/NMS_DIALOG_GCALIENSPEECHTABLE.MXML</Property_AlienWordsTable>
+  <Property_AlienPuzzlesTable>METADATA/REALITY/TABLES/NMS_DIALOG_GCALIENPUZZLETABLE.MXML</Property_AlienPuzzlesTable>
+  <Property_RewardTable>METADATA/REALITY/TABLES/REWARDTABLE.MXML</Property_RewardTable>
+  <Property_RewardDestructTable>METADATA/REALITY/TABLES/REWARDDESTRUCTTABLE.MXML</Property_RewardDestructTable>
+  <Property_InventoryTable>METADATA/REALITY/TABLES/INVENTORYTABLE.MXML</Property_InventoryTable>
+  <Property_DamageTable>METADATA/REALITY/TABLES/DAMAGETABLE.MXML</Property_DamageTable>
+  <Property_CostTable>METADATA/REALITY/TABLES/COSTTABLE.MXML</Property_CostTable>
+  <Data_Icons template="GcRealityIconTable">
+    <Property_HazardIcons>
+      <Data_None template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/HAZARDS/LIFESUPPORT.DDS</Property_Filename>
+      </Data_None>
+      <Data_NoOxygen template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.WATER.DDS</Property_Filename>
+      </Data_NoOxygen>
+      <Data_ExtremeHeat template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.HEAT.DDS</Property_Filename>
+      </Data_ExtremeHeat>
+      <Data_ExtremeCold template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.COLD.DDS</Property_Filename>
+      </Data_ExtremeCold>
+      <Data_ToxicGas template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.TOXIC.DDS</Property_Filename>
+      </Data_ToxicGas>
+      <Data_Radiation template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/HAZARDS/HAZARDS.RADIOACTIVE.DDS</Property_Filename>
+      </Data_Radiation>
+    </Property_HazardIcons>
+    <Property_SubstanceCategoryIcons>
+      <Data_Commodity template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.COMMODITY.DDS</Property_Filename>
+      </Data_Commodity>
+      <Data_Technology template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.TECH.DDS</Property_Filename>
+      </Data_Technology>
+      <Data_Fuel template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.FUEL.DDS</Property_Filename>
+      </Data_Fuel>
+      <Data_Tradeable template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.COMMODITY.DDS</Property_Filename>
+      </Data_Tradeable>
+      <Data_Special template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/CATEGORY.COMMODITY.DDS</Property_Filename>
+      </Data_Special>
+    </Property_SubstanceCategoryIcons>
+    <Property_ProductCategoryIcons>
+      <Data_Component template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/BUILDCATAGORY.COMPONENT.DDS</Property_Filename>
+      </Data_Component>
+      <Data_Device template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/BUILDCATAGORY.DEVICE.DDS</Property_Filename>
+      </Data_Device>
+      <Data_Consumable template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/BUILDCATAGORY.CONSUMABLE.DDS</Property_Filename>
+      </Data_Consumable>
+      <Data_Curiosity template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/BUILDCATAGORY.CURIOSITY.DDS</Property_Filename>
+      </Data_Curiosity>
+    </Property_ProductCategoryIcons>
+    <Property_GameIcons>
+      <Data_Stamina template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.STAMINA.DDS</Property_Filename>
+      </Data_Stamina>
+      <Data_NoStamina template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.NOSTAMINA.DDS</Property_Filename>
+      </Data_NoStamina>
+      <Data_EnergyCharge template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/HAZARDS/LIFESUPPORT.DDS</Property_Filename>
+      </Data_EnergyCharge>
+      <Data_Scanner template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.SCAN.DDS</Property_Filename>
+      </Data_Scanner>
+      <Data_NoScanner template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.NOSCAN.DDS</Property_Filename>
+      </Data_NoScanner>
+      <Data_Grave template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/ICONS/PLAYER/DEATH.DDS</Property_Filename>
+      </Data_Grave>
+      <Data_Resources template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/NOTIFICATIONS/SCANRESOURCE.DDS</Property_Filename>
+      </Data_Resources>
+      <Data_Inventory template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.NOTFULL.DDS</Property_Filename>
+      </Data_Inventory>
+      <Data_InventoryFull template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.FULL.DDS</Property_Filename>
+      </Data_InventoryFull>
+      <Data_RareItems template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/PRODUCTS/PRODUCT.CURIO.1.DDS</Property_Filename>
+      </Data_RareItems>
+      <Data_Pirates template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/PIRATEMESSAGEICON.DDS</Property_Filename>
+      </Data_Pirates>
+      <Data_PirateScan template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/PIRATEMESSAGEICON.DDS</Property_Filename>
+      </Data_PirateScan>
+      <Data_Drone template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/WANTEDMESSAGEICON.DDS</Property_Filename>
+      </Data_Drone>
+      <Data_Quad template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/QUADMESSAGEICON.DDS</Property_Filename>
+      </Data_Quad>
+      <Data_Walker template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/WALKERMESSAGEICON.DDS</Property_Filename>
+      </Data_Walker>
+      <Data_DroneOff template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/WANTEDMESSAGEICONALT.DDS</Property_Filename>
+      </Data_DroneOff>
+      <Data_Police template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/POLICEMESSAGEICON.DDS</Property_Filename>
+      </Data_Police>
+      <Data_AtlasStation template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/ATLASMESSAGEICON.DDS</Property_Filename>
+      </Data_AtlasStation>
+      <Data_BlackHole template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/BLACKHOLEMESSAGEICON.DDS</Property_Filename>
+      </Data_BlackHole>
+      <Data_SaveGame template="TkTextureResource">
+        <Property_Filename>TEXTURES/UI/HUD/RESTOREMESSAGEICON.DDS</Property_Filename>
+      </Data_SaveGame>
+    </Property_GameIcons>
+  </Data_Icons>
+  <Property_HazardColours>
+    <Data_None template="Colour">
+      <Property_R>1</Property_R>
+      <Property_G>1</Property_G>
+      <Property_B>1</Property_B>
+      <Property_A>1</Property_A>
+    </Data_None>
+    <Data_NoOxygen template="Colour">
+      <Property_R>0.259</Property_R>
+      <Property_G>0.718</Property_G>
+      <Property_B>0.769</Property_B>
+      <Property_A>1</Property_A>
+    </Data_NoOxygen>
+    <Data_ExtremeHeat template="Colour">
+      <Property_R>0.673</Property_R>
+      <Property_G>0.217</Property_G>
+      <Property_B>0.1</Property_B>
+      <Property_A>1</Property_A>
+    </Data_ExtremeHeat>
+    <Data_ExtremeCold template="Colour">
+      <Property_R>0.285</Property_R>
+      <Property_G>0.569</Property_G>
+      <Property_B>1</Property_B>
+      <Property_A>1</Property_A>
+    </Data_ExtremeCold>
+    <Data_ToxicGas template="Colour">
+      <Property_R>0.239</Property_R>
+      <Property_G>0.518</Property_G>
+      <Property_B>0.2</Property_B>
+      <Property_A>1</Property_A>
+    </Data_ToxicGas>
+    <Data_Radiation template="Colour">
+      <Property_R>0.894</Property_R>
+      <Property_G>0.541</Property_G>
+      <Property_B>0.016</Property_B>
+      <Property_A>1</Property_A>
+    </Data_Radiation>
+  </Property_HazardColours>
+  <Property_RarityColours>
+    <Data_Common template="Colour">
+      <Property_R>0.788</Property_R>
+      <Property_G>0.788</Property_G>
+      <Property_B>0.788</Property_B>
+      <Property_A>1</Property_A>
+    </Data_Common>
+    <Data_Uncommon template="Colour">
+      <Property_R>0.493</Property_R>
+      <Property_G>0.904</Property_G>
+      <Property_B>0.416</Property_B>
+      <Property_A>1</Property_A>
+    </Data_Uncommon>
+    <Data_Rare template="Colour">
+      <Property_R>0.615</Property_R>
+      <Property_G>0.236</Property_G>
+      <Property_B>0.881</Property_B>
+      <Property_A>1</Property_A>
+    </Data_Rare>
+  </Property_RarityColours>
+  <Property_SubstanceCategoryColours>
+    <Data_Commodity template="Colour">
+      <Property_R>1</Property_R>
+      <Property_G>0.851</Property_G>
+      <Property_B>0.072</Property_B>
+      <Property_A>1</Property_A>
+    </Data_Commodity>
+    <Data_Technology template="Colour">
+      <Property_R>0.192</Property_R>
+      <Property_G>0.74</Property_G>
+      <Property_B>0.816</Property_B>
+      <Property_A>1</Property_A>
+    </Data_Technology>
+    <Data_Fuel template="Colour">
+      <Property_R>0.884</Property_R>
+      <Property_G>0.139</Property_G>
+      <Property_B>0.093</Property_B>
+      <Property_A>1</Property_A>
+    </Data_Fuel>
+    <Data_Tradeable template="Colour">
+      <Property_R>1</Property_R>
+      <Property_G>1</Property_G>
+      <Property_B>1</Property_B>
+      <Property_A>1</Property_A>
+    </Data_Tradeable>
+    <Data_Special template="Colour">
+      <Property_R>0.638</Property_R>
+      <Property_G>0.137</Property_G>
+      <Property_B>1</Property_B>
+      <Property_A>1</Property_A>
+    </Data_Special>
+  </Property_SubstanceCategoryColours>
+  <Property_SubstanceChargeIcons>
+    <Data_Commodity template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/HUD/MENUS/ACTIONICON.MINERAL.DDS</Property_Filename>
+    </Data_Commodity>
+    <Data_Technology template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/HUD/MENUS/ACTIONICON.TECH.DDS</Property_Filename>
+    </Data_Technology>
+    <Data_Fuel template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/HUD/MENUS/ACTIONICON.FUEL.DDS</Property_Filename>
+    </Data_Fuel>
+    <Data_Tradeable template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/HUD/MENUS/ACTIONICON.TRADEABLE.DDS</Property_Filename>
+    </Data_Tradeable>
+    <Data_Special template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/HUD/MENUS/ACTIONICON.SPECIAL.DDS</Property_Filename>
+    </Data_Special>
+  </Property_SubstanceChargeIcons>
+  <Property_StatCategoryIcons>
+    <Data_Weapon_Laser template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.LASER.DDS</Property_Filename>
+    </Data_Weapon_Laser>
+    <Data_Weapon_Laser_Damage template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS</Property_Filename>
+    </Data_Weapon_Laser_Damage>
+    <Data_Weapon_Laser_Mining_Damage template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.MINE.DDS</Property_Filename>
+    </Data_Weapon_Laser_Mining_Damage>
+    <Data_Weapon_Laser_Mining_Speed template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Laser_Mining_Speed>
+    <Data_Weapon_Laser_HeatTime template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Laser_HeatTime>
+    <Data_Weapon_Laser_Bounce template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Laser_Bounce>
+    <Data_Weapon_Laser_ReloadTime template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Laser_ReloadTime>
+    <Data_Weapon_Laser_Recoil template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.PROJECTILE.DDS</Property_Filename>
+    </Data_Weapon_Laser_Recoil>
+    <Data_Weapon_Projectile template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.PROJECTILE.DDS</Property_Filename>
+    </Data_Weapon_Projectile>
+    <Data_Weapon_Projectile_Damage template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS</Property_Filename>
+    </Data_Weapon_Projectile_Damage>
+    <Data_Weapon_Projectile_Mining_Damage template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.MINE.DDS</Property_Filename>
+    </Data_Weapon_Projectile_Mining_Damage>
+    <Data_Weapon_Projectile_Range template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Projectile_Range>
+    <Data_Weapon_Projectile_Rate template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Projectile_Rate>
+    <Data_Weapon_Projectile_ClipSize template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Projectile_ClipSize>
+    <Data_Weapon_Projectile_ReloadTime template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Projectile_ReloadTime>
+    <Data_Weapon_Projectile_Recoil template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Projectile_Recoil>
+    <Data_Weapon_Projectile_Bounce template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Projectile_Bounce>
+    <Data_Weapon_Projectile_Homing template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Projectile_Homing>
+    <Data_Weapon_Projectile_Dispersion template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Projectile_Dispersion>
+    <Data_Weapon_Projectile_BulletsPerShot template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Projectile_BulletsPerShot>
+    <Data_Weapon_Projectile_MaximunCharge template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS</Property_Filename>
+    </Data_Weapon_Projectile_MaximunCharge>
+    <Data_Weapon_Grenade template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS</Property_Filename>
+    </Data_Weapon_Grenade>
+    <Data_Weapon_Grenade_Damage template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.DAMAGE.DDS</Property_Filename>
+    </Data_Weapon_Grenade_Damage>
+    <Data_Weapon_Grenade_Radius template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Grenade_Radius>
+    <Data_Weapon_Grenade_Speed template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Grenade_Speed>
+    <Data_Weapon_Grenade_Bounce template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Grenade_Bounce>
+    <Data_Weapon_Grenade_Homing template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Grenade_Homing>
+    <Data_Weapon_Grenade_Clusterbomb template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Grenade_Clusterbomb>
+    <Data_Weapon_Grenade_Mining_Damage template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.MINE.DDS</Property_Filename>
+    </Data_Weapon_Grenade_Mining_Damage>
+    <Data_Weapon_Scan template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Scan>
+    <Data_Weapon_Scan_Radius template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Scan_Radius>
+    <Data_Weapon_Scan_Recharge_Time template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Scan_Recharge_Time>
+    <Data_Weapon_Scan_Types template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Scan_Types>
+    <Data_Weapon_Scan_Binoculars template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/CATEGORIES/UPGRADECAT.GENERIC.DDS</Property_Filename>
+    </Data_Weapon_Scan_Binoculars>
+    <Data_Suit_Armour_Health template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS</Property_Filename>
+    </Data_Suit_Armour_Health>
+    <Data_Suit_Armour_Shield template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS</Property_Filename>
+    </Data_Suit_Armour_Shield>
+    <Data_Suit_Armour_Shield_Strength template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Suit_Armour_Shield_Strength>
+    <Data_Suit_Protection template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Suit_Protection>
+    <Data_Suit_Protection_Cold template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Suit_Protection_Cold>
+    <Data_Suit_Protection_Heat template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Suit_Protection_Heat>
+    <Data_Suit_Protection_Toxic template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS</Property_Filename>
+    </Data_Suit_Protection_Toxic>
+    <Data_Suit_Protection_Radiation template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS</Property_Filename>
+    </Data_Suit_Protection_Radiation>
+    <Data_Suit_Protection_Energy template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS</Property_Filename>
+    </Data_Suit_Protection_Energy>
+    <Data_Suit_Stamina_Strength template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS</Property_Filename>
+    </Data_Suit_Stamina_Strength>
+    <Data_Suit_Stamina_Speed template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS</Property_Filename>
+    </Data_Suit_Stamina_Speed>
+    <Data_Suit_Underwater template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.PROJECTILE.DDS</Property_Filename>
+    </Data_Suit_Underwater>
+    <Data_Suit_Jetpack template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.JETPACK.DDS</Property_Filename>
+    </Data_Suit_Jetpack>
+    <Data_Suit_Jetpack_Tank template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/RENDER.SHIELDCOPY2.DDS</Property_Filename>
+    </Data_Suit_Jetpack_Tank>
+    <Data_Suit_Energy template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/RENDER.CELL.DDS</Property_Filename>
+    </Data_Suit_Energy>
+    <Data_Ship_Weapons_Guns template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.WEAPONS.DDS</Property_Filename>
+    </Data_Ship_Weapons_Guns>
+    <Data_Ship_Weapons_Guns_Damage template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.LASER.DDS</Property_Filename>
+    </Data_Ship_Weapons_Guns_Damage>
+    <Data_Ship_Weapons_Guns_Rate template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.WEAPON.LASER.DDS</Property_Filename>
+    </Data_Ship_Weapons_Guns_Rate>
+    <Data_Ship_Weapons_Guns_HeatTime template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.LASER.DDS</Property_Filename>
+    </Data_Ship_Weapons_Guns_HeatTime>
+    <Data_Ship_Weapons_Guns_ClipSize template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.LASER.DDS</Property_Filename>
+    </Data_Ship_Weapons_Guns_ClipSize>
+    <Data_Ship_Weapons_Lasers template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SHIP.LASER.DDS</Property_Filename>
+    </Data_Ship_Weapons_Lasers>
+    <Data_Ship_Weapons_Lasers_Damage template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS</Property_Filename>
+    </Data_Ship_Weapons_Lasers_Damage>
+    <Data_Ship_Weapons_Lasers_HeatTime template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS</Property_Filename>
+    </Data_Ship_Weapons_Lasers_HeatTime>
+    <Data_Ship_Weapons_Missiles template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS</Property_Filename>
+    </Data_Ship_Weapons_Missiles>
+    <Data_Ship_Armour_Shield template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS</Property_Filename>
+    </Data_Ship_Armour_Shield>
+    <Data_Ship_Armour_Shield_Strength template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS</Property_Filename>
+    </Data_Ship_Armour_Shield_Strength>
+    <Data_Ship_Armour_Health template="TkTextureResource">
+      <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/TECHNOLOGY/TECH.SUIT.ARMOUR.DDS</Property_Filename>
+    </Data_Ship_Armour_Health>
+    <Data_Ship_Scan template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Ship_Scan>
+    <Data_Ship_Hyperdrive template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Ship_Hyperdrive>
+    <Data_Ship_Hyperdrive_JumpDistance template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Ship_Hyperdrive_JumpDistance>
+    <Data_Ship_Launcher template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Ship_Launcher>
+    <Data_Ship_Launcher_TakeOffCost template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Ship_Launcher_TakeOffCost>
+    <Data_Ship_PulseDrive template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Ship_PulseDrive>
+    <Data_Ship_PulseDrive_MiniJumpFuelSpending template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Ship_PulseDrive_MiniJumpFuelSpending>
+    <Data_Ship_Boost template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Ship_Boost>
+    <Data_Ship_Maneuverability template="TkTextureResource">
+      <Property_Filename></Property_Filename>
+    </Data_Ship_Maneuverability>
+  </Property_StatCategoryIcons>
+  <Property_Stats>
+    <Data_Suit template="GcStats">
+      <Property_Stats>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>ARMOUR</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SUIT.ARMOUR.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Suit_Armour_Health</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>0.559</Property_G>
+                <Property_B>0.446</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>5</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Suit_Armour_Shield_Strength</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0</Property_R>
+                <Property_G>0.7</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>5</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>PROTECTION</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SUIT.PROTECTION.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Suit_Protection_Cold</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.935</Property_R>
+                <Property_G>0.998</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>500</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Suit_Protection_Heat</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.928</Property_R>
+                <Property_G>0.312</Property_G>
+                <Property_B>0.209</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>500</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Suit_Protection_Toxic</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.167</Property_R>
+                <Property_G>0.72</Property_G>
+                <Property_B>0.341</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>500</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Suit_Protection_Radiation</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.997</Property_R>
+                <Property_G>1</Property_G>
+                <Property_B>0.134</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>500</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>STAMINA</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SUIT.STAMINA.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Suit_Stamina_Strength</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>1</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>2</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>UTILITIES</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SUIT.UTILITIES.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Suit_Jetpack_Tank</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>1</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>10</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+      </Property_Stats>
+    </Data_Suit>
+    <Data_Weapon template="GcStats">
+      <Property_Stats>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>LASER</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.WEAPON.LASER.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Laser_Damage</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>0.559</Property_G>
+                <Property_B>0.446</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>20</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Laser_Mining_Damage</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>0.958</Property_G>
+                <Property_B>0.446</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>25</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>PROJECTILE</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.WEAPON.PROJECTILE.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Projectile_Damage</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>0.559</Property_G>
+                <Property_B>0.446</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>60</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Projectile_Range</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.511</Property_R>
+                <Property_G>1</Property_G>
+                <Property_B>0.634</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>2500</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Projectile_Rate</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.357</Property_R>
+                <Property_G>0.545</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>10</Property_RangeMax>
+              <Property_LessIsBetter>True</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>GRENADE</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.WEAPON.GRENADE.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Grenade_Damage</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>0.559</Property_G>
+                <Property_B>0.446</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>1500</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Grenade_Radius</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.511</Property_R>
+                <Property_G>1</Property_G>
+                <Property_B>0.634</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>5</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Grenade_Speed</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.357</Property_R>
+                <Property_G>0.545</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>20</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>SCAN</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.WEAPON.SCAN.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Scan_Radius</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.997</Property_R>
+                <Property_G>0.862</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>10</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Weapon_Scan_Binoculars</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>1</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>1</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+      </Property_Stats>
+    </Data_Weapon>
+    <Data_Ship template="GcStats">
+      <Property_Stats>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>WEAPONS</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SHIP.WEAPONS.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Ship_Weapons_Guns_Damage</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>0.559</Property_G>
+                <Property_B>0.446</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>8</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Ship_Weapons_Lasers_Damage</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.511</Property_R>
+                <Property_G>1</Property_G>
+                <Property_B>0.634</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>8</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>ARMOUR</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SHIP.ARMOUR.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Ship_Armour_Shield_Strength</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.357</Property_R>
+                <Property_G>0.545</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>4</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>SCAN</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SHIP.SCAN.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Ship_Scan</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>1</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>10</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+        <Data_root template="GcStatsGroup">
+          <Property_Id>HYPERDRIVEX</Property_Id>
+          <Data_Icon template="TkTextureResource">
+            <Property_Filename>TEXTURES/UI/FRONTEND/ICONS/STATS/STATS.SHIP.HYDERDRIVE.DDS</Property_Filename>
+          </Data_Icon>
+          <Property_StatIds>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Ship_Hyperdrive</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>0.357</Property_R>
+                <Property_G>0.545</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>1</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+            <Data_root template="GcStatsEntry">
+              <Data_StatsType template="GcStatsTypes">
+                <Property_StatsType>Ship_Hyperdrive_JumpDistance</Property_StatsType>
+              </Data_StatsType>
+              <Data_Colour template="Colour">
+                <Property_R>1</Property_R>
+                <Property_G>1</Property_G>
+                <Property_B>1</Property_B>
+                <Property_A>1</Property_A>
+              </Data_Colour>
+              <Property_RangeMin>0</Property_RangeMin>
+              <Property_RangeMax>2000</Property_RangeMax>
+              <Property_LessIsBetter>False</Property_LessIsBetter>
+            </Data_root>
+          </Property_StatIds>
+        </Data_root>
+      </Property_Stats>
+    </Data_Ship>
+  </Property_Stats>
+  <Data_TradeSettings template="GcTradeSettings">
+    <Data_SpaceStation template="GcTradeData">
+      <Property_AlwaysPresentProducts>
+        <Data_root template="NMSString0x10">
+          <Property_Value>PULSEFUEL1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>SHIELDFUEL3</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>PRODFUEL3</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>COMMODITY7</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>COMMODITY3</Property_Value>
+        </Data_root>
+      </Property_AlwaysPresentProducts>
+      <Property_AlwaysPresentSubstances>
+        <Data_root template="NMSString0x10">
+          <Property_Value>COMUNCOMMON1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>TECH1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>TECHRARE1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>COMRARE1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>FUELRARE1</Property_Value>
+        </Data_root>
+      </Property_AlwaysPresentSubstances>
+      <Property_MinItemsForSale>15</Property_MinItemsForSale>
+      <Property_MaxItemsForSale>15</Property_MaxItemsForSale>
+      <Property_PercentageOfItemsAreProducts>0.7</Property_PercentageOfItemsAreProducts>
+      <Property_MinAmountOfProductAvailable>1</Property_MinAmountOfProductAvailable>
+      <Property_MaxAmountOfProductAvailable>4</Property_MaxAmountOfProductAvailable>
+      <Property_MinAmountOfSubstanceAvailable>30</Property_MinAmountOfSubstanceAvailable>
+      <Property_MaxAmountOfSubstanceAvailable>50</Property_MaxAmountOfSubstanceAvailable>
+      <Property_HasStarItems>True</Property_HasStarItems>
+      <Property_MinNumberOfStarItems>1</Property_MinNumberOfStarItems>
+      <Property_MaxNumberOfStarItems>4</Property_MaxNumberOfStarItems>
+      <Property_StarItemMarkUp>2</Property_StarItemMarkUp>
+    </Data_SpaceStation>
+    <Data_Shop template="GcTradeData">
+      <Property_AlwaysPresentProducts>
+        <Data_root template="NMSString0x10">
+          <Property_Value>SHIELDFUEL1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>SHIELDFUEL2</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>PRODFUEL1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>PRODFUEL2</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>GRENFUEL1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>COMMODITY1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>COMMODITY4</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>COMMODITY3</Property_Value>
+        </Data_root>
+      </Property_AlwaysPresentProducts>
+      <Property_AlwaysPresentSubstances>
+        <Data_root template="NMSString0x10">
+          <Property_Value>FUELRARE1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>TECH1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>TECHUNCOMMON1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>COM1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>COMUNCOMMON1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>FUEL1</Property_Value>
+        </Data_root>
+        <Data_root template="NMSString0x10">
+          <Property_Value>FUELUNCOMMON1</Property_Value>
+        </Data_root>
+      </Property_AlwaysPresentSubstances>
+      <Property_MinItemsForSale>20</Property_MinItemsForSale>
+      <Property_MaxItemsForSale>20</Property_MaxItemsForSale>
+      <Property_PercentageOfItemsAreProducts>0.5714</Property_PercentageOfItemsAreProducts>
+      <Property_MinAmountOfProductAvailable>1</Property_MinAmountOfProductAvailable>
+      <Property_MaxAmountOfProductAvailable>4</Property_MaxAmountOfProductAvailable>
+      <Property_MinAmountOfSubstanceAvailable>30</Property_MinAmountOfSubstanceAvailable>
+      <Property_MaxAmountOfSubstanceAvailable>50</Property_MaxAmountOfSubstanceAvailable>
+      <Property_HasStarItems>False</Property_HasStarItems>
+      <Property_MinNumberOfStarItems>1</Property_MinNumberOfStarItems>
+      <Property_MaxNumberOfStarItems>4</Property_MaxNumberOfStarItems>
+      <Property_StarItemMarkUp>2</Property_StarItemMarkUp>
+    </Data_Shop>
+  </Data_TradeSettings>
+  <Property_SuitUpgradePrices>
+    <Data_root template="NMSInt">
+      <Property_Value>0</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>10000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>20000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>30000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>40000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>50000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>60000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>70000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>80000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>90000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>100000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>110000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>120000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>130000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>140000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>150000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>160000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>170000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>180000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>190000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>200000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>210000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>220000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>230000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>240000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>250000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>260000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>270000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>280000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>290000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>300000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>310000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>320000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>330000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>340000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>350000</Property_Value>
+    </Data_root>
+    <Data_root template="NMSInt">
+      <Property_Value>360000</Property_Value>
+    </Data_root>
+  </Property_SuitUpgradePrices>
+  <Property_NeverSellableItems>
+    <Data_root template="NMSString0x10">
+      <Property_Value>HYPERFUEL1</Property_Value>
+    </Data_root>
+    <Data_root template="NMSString0x10">
+      <Property_Value>ACCESS1</Property_Value>
+    </Data_root>
+    <Data_root template="NMSString0x10">
+      <Property_Value>ACCESS2</Property_Value>
+    </Data_root>
+    <Data_root template="NMSString0x10">
+      <Property_Value>ACCESS3</Property_Value>
+    </Data_root>
+  </Property_NeverSellableItems>
+  <Property_NormalizedPriceLimits>
+    <Property_Commodity>0</Property_Commodity>
+    <Property_Technology>0.0004</Property_Technology>
+    <Property_Fuel>0.0024</Property_Fuel>
+    <Property_Tradeable>0.006</Property_Tradeable>
+    <Property_Special>0.02</Property_Special>
+  </Property_NormalizedPriceLimits>
+</Data_root>
+The program '[6496] Survival Mode Installer.vshost.exe' has exited with code -1 (0xffffffff).
