@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Survival_Mode_Installer.frmAdmin
+            Me.MainForm = Global.Survival_Mode_Installer.frmSurvivalModeInstaller
         End Sub
     End Class
 End Namespace

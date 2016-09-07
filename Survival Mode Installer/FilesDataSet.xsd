@@ -12,12 +12,13 @@
   <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="ConfigFiles" msprop:Generator_TableClassName="ConfigFilesDataTable" msprop:Generator_TableVarName="tableConfigFiles" msprop:Generator_TablePropName="ConfigFiles" msprop:Generator_RowDeletingName="ConfigFilesRowDeleting" msprop:Generator_RowChangingName="ConfigFilesRowChanging" msprop:Generator_RowEvHandlerName="ConfigFilesRowChangeEventHandler" msprop:Generator_RowDeletedName="ConfigFilesRowDeleted" msprop:Generator_UserTableName="ConfigFiles" msprop:Generator_RowChangedName="ConfigFilesRowChanged" msprop:Generator_RowEvArgName="ConfigFilesRowChangeEvent" msprop:Generator_RowClassName="ConfigFilesRow">
+        <xs:element name="ConfigFiles" msprop:Generator_TableClassName="ConfigFilesDataTable" msprop:Generator_TableVarName="tableConfigFiles" msprop:Generator_RowChangedName="ConfigFilesRowChanged" msprop:Generator_TablePropName="ConfigFiles" msprop:Generator_RowDeletingName="ConfigFilesRowDeleting" msprop:Generator_RowChangingName="ConfigFilesRowChanging" msprop:Generator_RowEvHandlerName="ConfigFilesRowChangeEventHandler" msprop:Generator_RowDeletedName="ConfigFilesRowDeleted" msprop:Generator_RowClassName="ConfigFilesRow" msprop:Generator_UserTableName="ConfigFiles" msprop:Generator_RowEvArgName="ConfigFilesRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="FileName" msprop:Generator_ColumnVarNameInTable="columnFileName" msprop:Generator_ColumnPropNameInRow="FileName" msprop:Generator_ColumnPropNameInTable="FileNameColumn" msprop:Generator_UserColumnName="FileName" type="xs:string" minOccurs="0" />
               <xs:element name="FileType" msprop:Generator_ColumnVarNameInTable="columnFileType" msprop:Generator_ColumnPropNameInRow="FileType" msprop:Generator_ColumnPropNameInTable="FileTypeColumn" msprop:Generator_UserColumnName="FileType" type="xs:string" minOccurs="0" />
               <xs:element name="FileLocation" msprop:Generator_ColumnVarNameInTable="columnFileLocation" msprop:Generator_ColumnPropNameInRow="FileLocation" msprop:Generator_ColumnPropNameInTable="FileLocationColumn" msprop:Generator_UserColumnName="FileLocation" type="xs:string" minOccurs="0" />
+              <xs:element name="XMLContent" msprop:Generator_ColumnVarNameInTable="columnXMLContent" msprop:Generator_ColumnPropNameInRow="XMLContent" msprop:Generator_ColumnPropNameInTable="XMLContentColumn" msprop:Generator_UserColumnName="XMLContent" type="xs:string" minOccurs="0" />
             </xs:sequence>
           </xs:complexType>
         </xs:element>

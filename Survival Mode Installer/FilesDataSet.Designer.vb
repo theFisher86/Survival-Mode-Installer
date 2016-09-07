@@ -22,7 +22,7 @@ Option Explicit On
  Global.System.Xml.Serialization.XmlSchemaProviderAttribute("GetTypedDataSetSchema"),  _
  Global.System.Xml.Serialization.XmlRootAttribute("DataSet1"),  _
  Global.System.ComponentModel.Design.HelpKeywordAttribute("vs.data.DataSet")>  _
-Partial Public Class FilesDataSet
+Partial Public Class DataSet1
     Inherits Global.System.Data.DataSet
     
     Private tableConfigFiles As ConfigFilesDataTable
@@ -128,7 +128,7 @@ Partial Public Class FilesDataSet
     <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
      Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
     Public Overrides Function Clone() As Global.System.Data.DataSet
-        Dim cln As FilesDataSet = CType(MyBase.Clone,FilesDataSet)
+        Dim cln As DataSet1 = CType(MyBase.Clone,DataSet1)
         cln.InitVars
         cln.SchemaSerializationMode = Me.SchemaSerializationMode
         Return cln
@@ -225,7 +225,7 @@ Partial Public Class FilesDataSet
     <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
      Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
     Public Shared Function GetTypedDataSetSchema(ByVal xs As Global.System.Xml.Schema.XmlSchemaSet) As Global.System.Xml.Schema.XmlSchemaComplexType
-        Dim ds As FilesDataSet = New FilesDataSet()
+        Dim ds As DataSet1 = New DataSet1()
         Dim type As Global.System.Xml.Schema.XmlSchemaComplexType = New Global.System.Xml.Schema.XmlSchemaComplexType()
         Dim sequence As Global.System.Xml.Schema.XmlSchemaSequence = New Global.System.Xml.Schema.XmlSchemaSequence()
         Dim any As Global.System.Xml.Schema.XmlSchemaAny = New Global.System.Xml.Schema.XmlSchemaAny()
@@ -289,6 +289,8 @@ Partial Public Class FilesDataSet
         
         Private columnFileLocation As Global.System.Data.DataColumn
         
+        Private columnXMLContent As Global.System.Data.DataColumn
+        
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
         Public Sub New()
@@ -349,6 +351,14 @@ Partial Public Class FilesDataSet
         End Property
         
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
+        Public ReadOnly Property XMLContentColumn() As Global.System.Data.DataColumn
+            Get
+                Return Me.columnXMLContent
+            End Get
+        End Property
+        
+        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0"),  _
          Global.System.ComponentModel.Browsable(false)>  _
         Public ReadOnly Property Count() As Integer
@@ -385,9 +395,9 @@ Partial Public Class FilesDataSet
         
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
-        Public Overloads Function AddConfigFilesRow(ByVal FileName As String, ByVal FileType As String, ByVal FileLocation As String) As ConfigFilesRow
+        Public Overloads Function AddConfigFilesRow(ByVal FileName As String, ByVal FileType As String, ByVal FileLocation As String, ByVal XMLContent As String) As ConfigFilesRow
             Dim rowConfigFilesRow As ConfigFilesRow = CType(Me.NewRow,ConfigFilesRow)
-            Dim columnValuesArray() As Object = New Object() {FileName, FileType, FileLocation}
+            Dim columnValuesArray() As Object = New Object() {FileName, FileType, FileLocation, XMLContent}
             rowConfigFilesRow.ItemArray = columnValuesArray
             Me.Rows.Add(rowConfigFilesRow)
             Return rowConfigFilesRow
@@ -413,6 +423,7 @@ Partial Public Class FilesDataSet
             Me.columnFileName = MyBase.Columns("FileName")
             Me.columnFileType = MyBase.Columns("FileType")
             Me.columnFileLocation = MyBase.Columns("FileLocation")
+            Me.columnXMLContent = MyBase.Columns("XMLContent")
         End Sub
         
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
@@ -424,6 +435,8 @@ Partial Public Class FilesDataSet
             MyBase.Columns.Add(Me.columnFileType)
             Me.columnFileLocation = New Global.System.Data.DataColumn("FileLocation", GetType(String), Nothing, Global.System.Data.MappingType.Element)
             MyBase.Columns.Add(Me.columnFileLocation)
+            Me.columnXMLContent = New Global.System.Data.DataColumn("XMLContent", GetType(String), Nothing, Global.System.Data.MappingType.Element)
+            MyBase.Columns.Add(Me.columnXMLContent)
         End Sub
         
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
@@ -491,7 +504,7 @@ Partial Public Class FilesDataSet
         Public Shared Function GetTypedTableSchema(ByVal xs As Global.System.Xml.Schema.XmlSchemaSet) As Global.System.Xml.Schema.XmlSchemaComplexType
             Dim type As Global.System.Xml.Schema.XmlSchemaComplexType = New Global.System.Xml.Schema.XmlSchemaComplexType()
             Dim sequence As Global.System.Xml.Schema.XmlSchemaSequence = New Global.System.Xml.Schema.XmlSchemaSequence()
-            Dim ds As FilesDataSet = New FilesDataSet()
+            Dim ds As DataSet1 = New DataSet1()
             Dim any1 As Global.System.Xml.Schema.XmlSchemaAny = New Global.System.Xml.Schema.XmlSchemaAny()
             any1.Namespace = "http://www.w3.org/2001/XMLSchema"
             any1.MinOccurs = New Decimal(0)
@@ -615,6 +628,21 @@ Partial Public Class FilesDataSet
         
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
+        Public Property XMLContent() As String
+            Get
+                Try 
+                    Return CType(Me(Me.tableConfigFiles.XMLContentColumn),String)
+                Catch e As Global.System.InvalidCastException
+                    Throw New Global.System.Data.StrongTypingException("The value for column 'XMLContent' in table 'ConfigFiles' is DBNull.", e)
+                End Try
+            End Get
+            Set
+                Me(Me.tableConfigFiles.XMLContentColumn) = value
+            End Set
+        End Property
+        
+        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
         Public Function IsFileNameNull() As Boolean
             Return Me.IsNull(Me.tableConfigFiles.FileNameColumn)
         End Function
@@ -647,6 +675,18 @@ Partial Public Class FilesDataSet
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
         Public Sub SetFileLocationNull()
             Me(Me.tableConfigFiles.FileLocationColumn) = Global.System.Convert.DBNull
+        End Sub
+        
+        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
+        Public Function IsXMLContentNull() As Boolean
+            Return Me.IsNull(Me.tableConfigFiles.XMLContentColumn)
+        End Function
+        
+        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
+        Public Sub SetXMLContentNull()
+            Me(Me.tableConfigFiles.XMLContentColumn) = Global.System.Convert.DBNull
         End Sub
     End Class
     
